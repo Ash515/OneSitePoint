@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "https://ashwinkumarramasamy.netlify.app/",
+    "https://www.linkedin.com/in/ashwinkumarramasamy/",
+    "http://127.0.0.1:5000"
+  ],
+  "activeSite": "https://ashwinkumarramasamy.netlify.app/",
+  "iframeURLs": {
+    "https://www.linkedin.com/in/ashwinkumarramasamy/": "about:blank",
+    "https://ashwinkumarramasamy.netlify.app/": "about:blank"
+  }
+}
